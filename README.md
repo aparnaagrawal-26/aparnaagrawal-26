@@ -4,7 +4,7 @@
   <em>Data Analyst | MSc Business Analytics | Tableau & Power BI | Python & SQL | Generative AI Enthusiast</em><br>
   <a href="mailto:mail2aparna.agrawal@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/agrawal-aparna/">💼 LinkedIn</a> •
-  <a href="https://public.tableau.com/app/profile/your-profile-name">📊 Tableau Public</a>
+  <a href="https://public.tableau.com/app/profile/aparna.agrawal/vizzes">📊 Tableau Public</a>
 </p>
 
 ---
